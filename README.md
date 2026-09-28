@@ -1,4 +1,3 @@
-# Complex Task Assignment in Spatial Crowdsourcing via LLM-Guided Learning
 
 Use `pip` to install require packages and run `run_meta.py` to start training and testing, suggested in `Python 3.13` and `Ubuntu 24`.
 
